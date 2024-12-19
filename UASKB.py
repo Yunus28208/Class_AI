@@ -1,3 +1,5 @@
+#Yunus Syahrul Mubarok
+#F55123049
 # -*- coding: utf-8 -*-
 """TTD(RF,SVM,KNN).ipynb
 
